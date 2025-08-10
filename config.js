@@ -146,7 +146,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/R4QDjVGY/MEF-AAP-027-BAP-PART-II-2025-07-31-10-53-59.png',
+            image: 'https://i.ibb.co/93gKjBQV/MEF-AAP-027-BAP-PART-II-2025-08-10-10-39-46.png',
             description: '',
             location: {
                 center: [28.731,41.275],
